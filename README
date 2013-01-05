@@ -1,0 +1,13 @@
+This is an idea to create a set of shell utilities which read and
+write JSON, rather than simple text streams.
+
+License:
+ GPL V2+ for the moment
+
+Requirements:
+ - C++ compiler
+ - cmake 2.6+
+ - YAJL JSON library
+    http://lloyd.github.com/yajl/
+ - TCLAP command line library
+    http://tclap.sourceforge.net/
